@@ -15,4 +15,9 @@
 create mode 100644 answers.md
 8  Author: katherine oloughlin <kl182319@ohio.edu>
    Date: Tue Jan 24 11:15:43 2020 -0500
-
+9
+  Branch main set up to track remote branch 'main' from 'origin'
+  10 yes
+  11 it asks for username 
+  12 yes
+  13 .  .. git-lab-2 labs
